@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Employees>
+   <Employee>
+      <Name>"Petr; ov"</Name>
+      <Role>t</Role>
+      <Salary>200</Salary>
+   </Employee>
+   <Employee>
+      <Name>Ivanov</Name>
+      <Role>s</Role>
+      <Salary/>
+   </Employee>
+   <Employee>
+      <Name>Sidorov</Name>
+      <Role>t</Role>
+      <Salary>100</Salary>
+   </Employee>
+</Employees>
